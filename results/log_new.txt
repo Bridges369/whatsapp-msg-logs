@@ -1,0 +1,132 @@
+{:type=>:message, :who=>"<system>", :date=>"06/05/2022 19:51", :text=>"As mensagens e as chamadas são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode ler ou ouvi-las. Toque para saber mais."}
+{:type=>:action, :who=>"<system>", :date=>"06/05/2022 18:19", :text=>"Raíssa criou o grupo \"trabalho de artes\""}
+{:type=>:action, :who=>"<system>", :date=>"06/05/2022 18:19", :text=>"Raíssa adicionou você"}
+{:type=>:message, :who=>"Raíssa:", :date=>"06/05/2022 19:47", :text=>" oi"}
+{:type=>:message, :who=>"Lillian:", :date=>"06/05/2022 19:47", :text=>" Oii"}
+{:type=>:action, :who=>"<system>", :date=>"09/05/2022 13:00", :text=>"Raíssa adicionou Laryssa"}
+{:type=>:message, :who=>"Raíssa:", :date=>"09/05/2022 13:00", :text=>" oi"}
+{:type=>:message, :who=>"Laryssa:", :date=>"09/05/2022 13:08", :text=>" oi"}
+{:type=>:message, :who=>"Lillian:", :date=>"09/05/2022 15:28", :text=>""}
+{:type=>:message, :who=>"Laryssa:", :date=>"09/05/2022 15:28", :text=>" !!"}
+{:type=>:message, :who=>"Laryssa:", :date=>"09/05/2022 15:28", :text=>" eu toda torta"}
+{:type=>:message, :who=>"Laryssa:", :date=>"09/05/2022 15:28", :text=>" tô bem mal"}
+{:type=>:message, :who=>"Laryssa:", :date=>"09/05/2022 15:29", :text=>" odeio a aula dele"}
+{:type=>:message, :who=>"Lillian:", :date=>"09/05/2022 15:29", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Laryssa:", :date=>"12/05/2022 14:52", :text=>" aqui está vadias"}
+{:type=>:message, :who=>"Laryssa:", :date=>"12/05/2022 14:52", :text=>" não"}
+{:type=>:message, :who=>"Laryssa:", :date=>"12/05/2022 14:52", :text=>" ainda não foi"}
+{:type=>:message, :who=>"Laryssa:", :date=>"12/05/2022 14:53", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Laryssa:", :date=>"12/05/2022 14:53", :text=>" agora foi"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 07:06", :text=>" Oi gente, eu queria saber se vcs se importam deu não ir hj, sei que tem o trabalho de artes mas eu vou ficar com o celular perto daí vcs podem falar comigo aqui no grupo qualquer coisa"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 07:07", :text=>" Me mandar como ficou organizado as pesquisas etc..."}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 07:07", :text=>" Só pq eu ainda tô meio ruim da gripe"}
+{:type=>:message, :who=>"Lillian:", :date=>"19/05/2022 07:13", :text=>" De boa Ana"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 07:13", :text=>" Obrigada\u{1FAF6}"}
+{:type=>:message, :who=>"Raíssa:", :date=>"19/05/2022 11:21", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 11:23", :text=>" Q carinhosa\u{1FAE0}"}
+{:type=>:message, :who=>"Lillian:", :date=>"19/05/2022 11:23", :text=>" Sksksks"}
+{:type=>:message, :who=>"Laryssa:", :date=>"19/05/2022 11:26", :text=>" melhoras aninha"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 11:26", :text=>" Obrigada ☺️"}
+{:type=>:message, :who=>"Bridges:", :date=>"19/05/2022 11:27", :text=>" realmente"}
+{:type=>:message, :who=>"Bridges:", :date=>"19/05/2022 11:27", :text=>" digo"}
+{:type=>:message, :who=>"Bridges:", :date=>"19/05/2022 11:27", :text=>" oi"}
+{:type=>:message, :who=>"Raíssa:", :date=>"19/05/2022 11:28", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>" Mana :", :date=>"19/05/2022 11:37", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Raíssa:", :date=>"19/05/2022 11:39", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Bridges:", :date=>"19/05/2022 14:12", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Lillian: https://pib.socioambiental.org/pt/Povo:", :date=>"19/05/2022 14:40", :text=>"Kaingang"}
+{:type=>:message, :who=>"Lillian:", :date=>"19/05/2022 14:40", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:action, :who=>"<system>", :date=>"22/05/2022 17:29", :text=>"Laryssa mudou de número de telefone. Toque para enviar uma mensagem ou adicionar o novo número."}
+{:type=>:action, :who=>"<system>", :date=>"30/05/2022 22:15", :text=>"Raíssa adicionou  Mana "}
+{:type=>:action, :who=>"<system>", :date=>"30/05/2022 22:15", :text=>"Raíssa removeu  Mana "}
+{:type=>:message, :who=>"<system>", :date=>"02/06/2022 09:29", :text=>"Você mudou a descrição do grupo"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:29", :text=>" coloquem na descrição o que cada uma pegou pfv"}
+{:type=>:message, :who=>" Mana : Eu me esqueci oq peguei :", :date=>"02/06/2022 09:50", :text=>"-)"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:50", :text=>" boa"}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 09:50", :text=>"Laryssa mudou a descrição do grupo."}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 09:51", :text=>"Lillian mudou a descrição do grupo."}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:50", :text=>" É a introdução mas te um nome certo"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:50", :text=>" Origem?"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:50", :text=>" sim"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:51", :text=>" ❤️"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:51", :text=>" nossa liliam vsf"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:51", :text=>" boa lillian"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:51", :text=>" Kkkk"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:51", :text=>" vou arrumar"}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 09:51", :text=>"Laryssa mudou a descrição do grupo."}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:52", :text=>" Aaaaaaa obrigada"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:52", :text=>" com o que a raissa ficou?"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:52", :text=>" Hamm esqueci o nome"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:52", :text=>" Hj tá foda"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:52", :text=>" Pohhaaa lucaaas"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:52", :text=>" Religião"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:52", :text=>" Isso"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:52", :text=>" realmente"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 09:52", :text=>" tabom"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:52", :text=>" É lilliam com m"}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 09:53", :text=>"Laryssa mudou a descrição do grupo."}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:53", :text=>" É analfabeto coitado (BRINCADEIRA)"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:53", :text=>" <3"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:53", :text=>" Ksksks"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:53", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:53", :text=>" Q frio pqp"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:54", :text=>" Simmm"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:54", :text=>" Pqp"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:54", :text=>""}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:54", :text=>" Kkk"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:55", :text=>""}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:55", :text=>" Normal"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:55", :text=>" Ksksk"}
+{:type=>:message, :who=>"<system>", :date=>"02/06/2022 09:57", :text=>"Você mudou a descrição do grupo"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:57", :text=>" 👍"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 09:58", :text=>""}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 09:58", :text=>" Agora sim"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 09:59", :text=>" Que bonito emm"}
+{:type=>:message, :who=>"<system>", :date=>"02/06/2022 10:00", :text=>"Você mudou a descrição do grupo"}
+{:type=>:message, :who=>"<system>", :date=>"02/06/2022 10:01", :text=>"Você mudou a descrição do grupo"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:01", :text=>" cu"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:01", :text=>" em minha defesa você nunca disse pra mim como se escreve"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:02", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:02", :text=>" Eu falei...🙂"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:02", :text=>" n"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:02", :text=>" Umas 2 vezes"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:02", :text=>" não soletrou pra mim"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 10:02", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:02", :text=>" Eu escrevi"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 10:03", :text=>" Pera aí que eu vou desenhar ksks"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:03", :text=>" Isso kkkk"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:03", :text=>" obg"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:04", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 10:04", :text=>" Ksksk"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 10:04", :text=>" Isso ana"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:04", :text=>" uhum obg"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:04", :text=>" \u{1FAF6}"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:04", :text=>" 🖕"}
+{:type=>:message, :who=>"Bridges: :", :date=>"02/06/2022 10:04", :text=>")"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:05", :text=>" Senta em cima (como dizia meu vô)"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 10:05", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:05", :text=>" ana"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:05", :text=>" vai arranjar um emprego"}
+{:type=>:message, :who=>" Mana : :", :date=>"02/06/2022 10:05", :text=>"-)"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:05", :text=>" vai"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:05", :text=>" Eu não"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:05", :text=>" Vagabundagem é maior"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:05", :text=>" vadia"}
+{:type=>:message, :who=>" Mana :", :date=>"02/06/2022 10:05", :text=>" Muito"}
+{:type=>:message, :who=>"Laryssa:", :date=>"02/06/2022 10:06", :text=>" vão dormir"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 10:07", :text=>" <Arquivo de mídia oculto>"}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 14:22", :text=>" Mensagem apagada"}
+{:type=>:message, :who=>"Bridges: https://www.google.com.br/url?sa=t&source=web&rct=j&url=https:", :date=>"02/06/2022 14:22", :text=>"//www.lume.ufrgs.br/bitstream/handle/10183/25532/000753800.pdf%3Fsequence%3D1&ved=2ahUKEwjVqPe0oY_4AhXMjZUCHYz0BzsQFnoECDEQAQ&usg=AOvVaw3gQW3gIG6sn_iCPt9l3zN1"}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 14:26", :text=>nil}
+{:type=>:action, :who=>"<system>", :date=>"02/06/2022 14:27", :text=>nil}
+{:type=>:message, :who=>"Raíssa: https://pib.socioambiental.org/pt/Povo:", :date=>"02/06/2022 14:33", :text=>"Kaingang"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 14:33", :text=>" A língua Kaingang e seus falantes"}
+{:type=>:message, :who=>"<system>", :date=>"", :text=>nil}
+{:type=>:message, :who=>"<system>", :date=>"", :text=>"é uma das línguas da família Jê, integrante do tronco Macro-Jê. O Kaingang e o Xokleng (que é uma língua muito próxima do Kaingang, hoje falada apenas em Santa Catarina) formam o conjunto restrito das línguas e culturas Jê do Sul (ou Jê Meridionais)."}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 14:34", :text=>" Como falar a língua dos índios?"}
+{:type=>:message, :who=>"<system>", :date=>"", :text=>"dígenas do Brasil, os troncos linguísticos com maior número de línguas são o tupi e o macro-jê. Existem também povos que falam o português; no entanto, estes casos são considerados como perdas linguísticas ou identidades emergentes."}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 14:36", :text=>" Qual é o significado da palavra Kaingang?"}
+{:type=>:message, :who=>"<system>", :date=>"", :text=>"ngang” surge de nossa vida na floresta e significa “donos da mata”, ou “gente da floresta”"}
+{:type=>:message, :who=>"Lillian:", :date=>"02/06/2022 14:36", :text=>" Quais as línguas indígenas faladas no Paraná?"}
+{:type=>:message, :who=>"<system>", :date=>"", :text=>" pertence ao povo Kaingang (tronco linguístico Macro-Jê) e 30% ao povo Guarani (tronco linguístico Tupi-Guarani). Há famílias descendentes do povo Xetá (tronco linguístico Tupi-Guarani) e algumas do povo Xokleng (tronco-linguístico Macro-Jê), distribuídas em 23 Terras Indígenas/Aldeias."}
+{:type=>:message, :who=>"Bridges:", :date=>"02/06/2022 16:56", :text=>" Esse é pra ana banana"}
