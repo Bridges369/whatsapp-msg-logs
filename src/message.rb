@@ -1,8 +1,33 @@
 module Message
 
-  def box(text, size)
-    k = text.length + 2
-    l = "│#{text}#{" "*(size - k)}│"
+  def boxline(text, size, location=:middle)
+    h = {
+      up: {
+        begin: "╭",
+        center: "─",
+        end: "╮"
+      },
+      middle: {
+        begin: "│",
+        end: "│"
+      },
+      down: {
+        begin: "╰",
+        center: "─",
+        end: "╯"
+      }
+    }
+    k = text.length
+    l = text.to_s + (" "*(size - k))
+    case location
+    when :up
+      return <<~HEREDOC
+        #{l}
+      HEREDOC
+    when :middle
+      return "#{h[location][:begin]}#{l}#{h[location][:end]}"
+    when :down
+    end
     return l
   end
 
@@ -31,7 +56,7 @@ module Message
 
     lines.each do |i|
       begin
-        paragraph += "#{box(i, size + 2)}\n"
+        paragraph += "#{boxline(i, size, :middle)}\n"
       rescue
       end
     end
@@ -45,7 +70,7 @@ module Message
     end
     return <<~HEREDOC.split("\n").map{ |i| " "*(size) + i}.join("\n")
       ╭#{"─"*(args[4] - 2)}╮
-      #{box("#{args[0][:who].to_s} │ #{args[0][:date].to_s}", args[4])}
+      #{boxline("#{args[0][:who].to_s} │ #{args[0][:date].to_s}", args[4], :up)}
       ├#{"─"*(args[4] - 2)}┤
       #{align(args[0][:text], args[4])}
       ╰#{"─"*(args[4] - 2)}╯
